@@ -61,17 +61,6 @@ ul > li {
    100% {transform: translate(700px, 150px);}
 }
 
-.diver2 {
-    transform: translate(700px, -150px);
-    animation: divermv2 3s ease-in-out infinite;
-}
-
-@keyframes divermv2 {
-   0% {transform: translate(700px, -150px);}
-   100% {transform: translate(700px, 150px);}
-}
-
-
 .fish {
     transform: translate(1900px, -100px);
     animation: fishmv 5s ease-in-out infinite;
