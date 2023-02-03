@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
-![3-column preview card component - mobile preview](./images/taskscreeenshot-mobile.png)
-![3-column preview card component - desktop preview](./images/taskscreeenshot-desktop.png)
+![preview](./imgs/scrennshot1%20(1).png)
+![preview2](./imgs/scrennshot1%20(2).png)
 
 ## Welcome! 
 Thank you for checking out my project!
