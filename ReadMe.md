@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-column preview card component solution
+# Landing Page animation
 ![preview](./imgs/scrennshot1%20(1).png)
 ![preview2](./imgs/scrennshot1%20(2).png)
 
